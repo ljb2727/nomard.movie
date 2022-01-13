@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 function Movie({ cover, title, summary, genres, id }) {
     return (
         <div>
-            <NavLink to={`/movie/${id}`}>
+            <NavLink to={`/test/${id}`}>
                 <strong>{title}</strong>
 
                 <img src={cover} alt={title} />
