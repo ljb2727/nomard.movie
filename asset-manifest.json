@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ljb2727/nomard.movie/static/css/main.e6c13ad2.css",
+    "main.js": "/ljb2727/nomard.movie/static/js/main.e3e09d3e.js",
+    "static/js/787.c6887097.chunk.js": "/ljb2727/nomard.movie/static/js/787.c6887097.chunk.js",
+    "index.html": "/ljb2727/nomard.movie/index.html",
+    "main.e6c13ad2.css.map": "/ljb2727/nomard.movie/static/css/main.e6c13ad2.css.map",
+    "main.e3e09d3e.js.map": "/ljb2727/nomard.movie/static/js/main.e3e09d3e.js.map",
+    "787.c6887097.chunk.js.map": "/ljb2727/nomard.movie/static/js/787.c6887097.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e3e09d3e.js"
+  ]
+}
